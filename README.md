@@ -1,3 +1,7 @@
 # clo
 hello zhangyuexing
-master:i modify the content
+<<<<<<< HEAD
+dev:i modify the content
+=======
+dev:i modify the content
+>>>>>>> dev
